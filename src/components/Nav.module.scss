@@ -1,0 +1,19 @@
+// #9b111e rubí
+// #6576b4 zafiro
+// #3d8bff azul
+// #ffd700
+// #eeeeee #696969 #b8860b maron #6a5acd #ff6347 #db7093 #228b22
+.nav{
+    background-color: #6576b4;
+    display: flex;
+    // flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.navlink{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: auto;
+}
